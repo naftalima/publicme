@@ -1,0 +1,19 @@
+header {
+    height: 15vh;
+}
+
+
+.menu {
+    display: flex;
+    height: 60vh;
+    width: 100%;
+}
+
+
+.menu__left{
+    width: 70%;
+}
+
+.menu__right {
+    width: 30%;
+}
