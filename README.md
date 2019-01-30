@@ -14,3 +14,11 @@ https://fonts.google.com/specimen/Bungee+Inline
 
 the txt
 https://fonts.google.com/specimen/Trocchi
+
+
+--TO DO
+
+- downloads das fontes 
+- organizar os divs estrutural
+- animaçoes
+- foto
