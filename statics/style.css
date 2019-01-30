@@ -1,0 +1,9 @@
+/* globals */
+@import url('fonts.css');
+
+
+/* pages */
+@import url('index.css');
+@import url('contact.css');
+@import url('hello.css');
+@import url('projects.css');
