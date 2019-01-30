@@ -1,51 +1,29 @@
 <!DOCTYPE html>
-
 <html>
-    <title>Naftalima</title>
-<head>
-    <style> 
-    .flex-container {
-    display: -webkit-flex;
-    display: flex;  
-    -webkit-flex-flow: row wrap;
-    flex-flow: row wrap;
-    font-weight: bold;
-    text-align: center;
-    }
+    <head>
+        <title>Naftalima</title>
+        <style>
+            @import "compass/css3";
+            .flex-container{
 
-    .flex-container > * {
-    padding: 10px;
-    flex: 1 100%;
-    }
+            }
+            .flex-item{
+                
+            }
 
-    .main {
-    text-align: left;
-    background: cornflowerblue;
-    }
 
-    .header {background: coral;}
-    .footer {background: lightgreen;}
-    .aside {background: moccasin;}
+        </style>
+    </head>
+    <body>
 
-    @media all and (min-width: 768px) {
-    .aside { flex: 1 auto; }
-    .main    { flex: 3 0px; }
-    .aside { order: 1; } 
-    .main    { order: 2; }
-    .footer  { order: 4; }
-    }
-    </style>
-</head>
-<body>
+        
+        <img src="files/me.jpg" alt="me by me" style="width:406px;height:406px;">
 
-    <div class="flex-container">
-    <header class="header">Header</header>
-    <aside class="aside">Aside</aside>
-    <article class="main">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed ex turpis. Cras luctus nibh lectus, in ullamcorper ex tempor eleifend. Nulla bibendum, eros a consequat vestibulum, orci massa fermentum quam, sed commodo nunc ex vitae nisl. Aliquam ullamcorper interdum est nec tincidunt.</p>
-    </article>
-    <footer class="footer">Footer</footer>
-    </div>
+        <footer>
+            <img src="files/fb-logo.png" alt="HTML5 Icon" >
+            <img src="files/gh-logo.png" alt="HTML5 Icon" >
+            <img src="files/ig-logo.png" alt="HTML5 Icon" >
+        </footer>
 
-</body>
-</html>
+    </body>
+</html> 
