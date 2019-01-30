@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Bungee;
+    src: url(./Fonts/Bungee/Bungee-Regular.ttf);
+}
+
+@font-face {
+  font-family: BungeeInline;
+  src: url(./Fonts/Bungee_Inline/BungeeInline-Regular.ttf);
+}
+
+@font-face {
+  font-family: BungeeShade;
+  src: url(./Fonts/Bungee_Shade/BungeeShade-Regular.ttf);
+}
+
+@font-face {
+  font-family: Trocchi;
+  src: url(./Fonts/Trocchi/Trocchi-Regular.ttf);
+}
