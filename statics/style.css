@@ -42,10 +42,14 @@
 
 @font-face {
   font-family: BungeeShade;
-  src: url(./Fonts/Bungee_Shade/BungeeShade-Regular.ttf');
+  src: url(./Fonts/Bungee_Shade/BungeeShade-Regular.ttf);
 }
 
 @font-face {
   font-family: Trocchi;
   src: url(./Fonts/Trocchi/Trocchi-Regular.ttf);
+}
+
+.Contacto{
+  
 }
