@@ -1,9 +1,11 @@
 
-//--------------------------------------------ANIMATION TO CONTACT----------------------------------------------------
+//--------------------------------------------ANIMATION CONTACT----------------------------------------------------
 
 // set up text to print, each item in array is new line
 var aText = new Array(
-    "Shoot me an email to discuss a possible project or just say Hi", 
+    "Shoot me an email to discuss a possible project",
+    "or just say 'Hi' ;) ",
+    "\n",
     "Let's Chat"
     );
     var iSpeed = 100; // time delay of print out
@@ -36,7 +38,6 @@ var aText = new Array(
       setTimeout("typewriter()", iSpeed);
      }
     }
-    
-    
+
     typewriter();
-//----------------------------------------------------------------------------------------------------------------------
+//------------------------------------------------------------------------------------------------
