@@ -102,3 +102,12 @@ footer {
 .hoverable:hover .hover {
     display:inline;  /* CHANGE IF FOR BLOCK ELEMENTS */
 }
+
+.goBack{
+    width: 100%;
+    font-family: Bungee;
+    font-size: 22px;
+    color: inherit;
+    text-decoration: none;
+    align-content: center;
+}
