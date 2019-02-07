@@ -1,0 +1,11 @@
+.projects {
+    display: flex;
+    height: 60vh;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    font-family: BungeeHairline; 
+}

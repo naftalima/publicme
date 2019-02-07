@@ -3,13 +3,13 @@
 
 // set up text to print, each item in array is new line
 var aText = new Array(
-    "Shoot me an email to discuss a possible project",
-    "or just say 'Hi' ;) ",
-    "\n",
-    "Let's Chat",
-    "\n",
-    "\n",
-    "npl@cin.ufpe.br"
+        "\n",
+        "Email:",
+        "\t - npl@cin.ufpe.br",
+        "\t - naftalima@gmail.com",
+        "\n",
+        "Telegram:",
+        "t.me/naftalima"
     );
     var iSpeed = 100; // time delay of print out
     var iIndex = 0; // start printing array at this posision
