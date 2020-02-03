@@ -15,5 +15,15 @@
 
 @font-face {
   font-family: BungeeHairline;
-  src: url(./Fonts/Trocchi/BungeeHairline-Regular);
+  src: url(./Fonts/Bungee_Hairline/BungeeHairline-Regular.ttf);
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(./Fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: Martel Sans;
+  src: url(./Fonts/Martel_Sans/MartelSans-Regular.ttf);
 }
