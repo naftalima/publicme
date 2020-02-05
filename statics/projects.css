@@ -10,10 +10,28 @@
 }
 
 .projects img{
-    width: 25%;  /* Will shrink image to 25% of its original width */
+    width: 25%; 
     height: auto; 
 }
 
-body {
-    font-family: BungeeHairline; 
+header img{
+    width: 5%; 
+    height: auto; 
+    padding-top: 10px;
 }
+
+body {
+    font-family: Martel Sans; 
+    padding-left: 20px;
+}
+
+body p {
+    text-align: center;
+
+}
+
+
+a {
+    color: lightcoral;
+}
+
